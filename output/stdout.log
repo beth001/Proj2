@@ -1,0 +1,31 @@
+==============================================================================
+Tasks :: Orders robots from RobotSpareBin Industries Inc. Saves the order H...
+==============================================================================
+Order robots from RobotSpareBin Industries Inc                        variable result: False
+variable result: False
+variable result: False
+variable result: True
+variable result: True
+variable result: False
+variable result: True
+variable result: False
+variable result: False
+variable result: False
+variable result: False
+variable result: False
+variable result: True
+variable result: True
+variable result: True
+variable result: True
+variable result: True
+variable result: False
+variable result: True
+variable result: False
+Typed name:beth
+| PASS |
+------------------------------------------------------------------------------
+Tasks :: Orders robots from RobotSpareBin Industries Inc. Saves th... | PASS |
+1 task, 1 passed, 0 failed
+==============================================================================
+Output:  c:\Users\USER\Desktop\ROBOCORP\CODE2\output\output.xml
+Log:     c:\Users\USER\Desktop\ROBOCORP\CODE2\output\log.html
